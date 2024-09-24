@@ -13,10 +13,10 @@ I love collaborating on innovative ideas, so feel free to connect and contribute
 Happy coding! 🖥️💻
 
 <!---
-- 👋 Hi, I’m @passocurto
+- 👋 Hi, I’m Ricardo Passinho @passocurto
 - 👀 I’m interested in Javascript, React, Vuejs, Redux, Java
-- 🌱 I’m currently React Native
-- 💞️ I’m looking to collaborate on Project at Vuejs or React
+- 🌱 I’m currently Laravel Project
+- 💞️ I’m looking to collaborate on Project 
 - 📫 How to reach me passocurto@gmail.com](url)
 
 
